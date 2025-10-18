@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SYPDER
+message: Lenguaje m; python
+type: software
+authors:
+  - given-names: Luis Fabian
+    family-names: García Sánchez
+    email: L22212254@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/LuisFabianGarciaSanchez/4MSF'
+keywords:
+  - Circuito RLC
+  - Controlador PI
+  - Sistema cardiovascular
+  - Modelo matematico
+  - Patologías cardiacas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-17'
