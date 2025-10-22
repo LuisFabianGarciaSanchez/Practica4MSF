@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=LuisFabianGarciaSanchez/4MSF)
 
-# Práctica: Sistema cardiovascular
+# Práctica 4: Sistema cardiovascular
 
 ## Información de la estudiante
 Garcia Sanchez Luis Fabian \[22212254]; L22212254@tectijuana.edu.mx
